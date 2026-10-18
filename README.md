@@ -1,6 +1,6 @@
 # Quinone reduction-energy representation dependence — source release candidate (V7)
 
-**STATUS: PUBLIC GitHub source repository (18 October 2026). The 41 frozen V7 research files remain byte-for-byte unchanged. Scoped MIT and CC BY 4.0 licenses are documented in `LICENSES.md`. A Zenodo DOI was supplied by the author but its live deposit metadata and files have not been independently verified.**
+**STATUS: PUBLIC GitHub scientific source repository. The 41 frozen V7 research files remain byte-for-byte unchanged. An ORCA upstream EULA review is open: scoped licenses do not grant unrestricted commercial reuse of ORCA-generated data. See `ORCA_EULA_RIGHTS_NOTICE.md`. Zenodo record status and files for the author-supplied DOI remain unverified.**
 
 ## Scope and provenance
 This artifact contains (a) source-linked tabular results from the original M1-M6 freeze, (b) all 24 converged M6 raw input/output/geometry triplets, (c) plot artwork and scripts, and (d) a pure-Python numerical audit. Its creation has NOT changed the historical calculations or corrected the M1 raw-output exceptions. It is NOT an experimental potential dataset.
