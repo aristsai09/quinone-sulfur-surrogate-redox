@@ -1,0 +1,9 @@
+site_id,site_label,state,selected_source,source_xyz,full_formula,counterfactual_formula,S_index,beta_index,alpha_removed_index,quinone_C_index,quinone_carbonyl_O_indices,min_sidechain_hetero_to_carbonyl_O_A,Cq_S_Cbeta_angle_deg
+Q0527_R0_SME1,BAQ_site_positive,neutral,m3r_c1,runs_m3r/Q0527_R0_SME1/neutral/02_unresolved_r2opt/c01/job.xyz,C24H19NO5S,C19H12O2S,10,9,4,11,14;16,3.277619534277286,102.6872525195178
+Q0527_R0_SME1,BAQ_site_positive,reduced,m3r_c1,runs_m3r/Q0527_R0_SME1/reduced/02_unresolved_r2opt/c01/job.xyz,C24H19NO5S,C19H12O2S,10,9,4,11,14;16,4.115305339297901,100.5756285480114
+Q0298_R3_SME1,7MeBAQ_site_positive,neutral,m3r_c7,runs_m3r/Q0298_R3_SME1/neutral/02_unresolved_r2opt/c07/job.xyz,C25H21NO5S,C20H14O2S,10,9,4,11,14;16,3.978608602256116,104.885868426082
+Q0298_R3_SME1,7MeBAQ_site_positive,reduced,competitor_c0,runs/Q0298_R3_SME1/reduced/05_competitor_refine/c00/job.xyz,C25H21NO5S,C20H14O2S,10,9,4,11,14;16,4.226646100124817,100.2832941365609
+Q0059_R0_SME3,"BPAQ_C5_1,6",neutral,competitor_c0,runs/Q0059_R0_SME3/neutral/05_competitor_refine/c00/job.xyz,C21H23NO6S,C16H16O3S,10,9,4,11,26;28,3.20528388231065,102.193104846125
+Q0059_R0_SME3,"BPAQ_C5_1,6",reduced,primary,runs/Q0059_R0_SME3/reduced/01_primary_r2scan_opt/job.xyz,C21H23NO6S,C16H16O3S,10,9,4,11,26;28,3.182064551214775,102.5222314995534
+Q0528_R0_SME1,NPQ_site_A,neutral,competitor_c2,runs/Q0528_R0_SME1/neutral/05_competitor_refine/c02/job.xyz,C16H15NO5S,C11H8O2S,10,9,4,11,14;16,4.040041902252298,104.7353026518924
+Q0528_R0_SME1,NPQ_site_A,reduced,competitor_c7,runs/Q0528_R0_SME1/reduced/05_competitor_refine/c07/job.xyz,C16H15NO5S,C11H8O2S,10,9,4,11,14;16,4.238188024446108,103.0075659091609

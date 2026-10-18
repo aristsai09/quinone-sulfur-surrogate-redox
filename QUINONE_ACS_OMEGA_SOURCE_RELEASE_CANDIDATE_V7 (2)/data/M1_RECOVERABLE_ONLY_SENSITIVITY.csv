@@ -1,0 +1,3 @@
+cohort,sites,parent_families,negative,positive,median_eV,mean_eV,abs_ge_0p05,abs_ge_0p10,multi_site_parents,opposite_sign_multisites,max_site_span_eV
+original_38_frozen,38,26,27,11,-0.01407950898893473,0.011245810944085916,12,7,9,6,0.2737131246101683
+raw_file_corroborated_34_sensitivity,34,25,25,9,-0.016004618821746863,0.011893653423607363,10,6,7,4,0.2737131246101683

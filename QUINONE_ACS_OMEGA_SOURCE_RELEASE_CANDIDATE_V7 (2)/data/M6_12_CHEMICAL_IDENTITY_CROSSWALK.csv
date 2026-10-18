@@ -1,0 +1,13 @@
+site,kind,smiles,formula,xyz_formula_count_match,smiles_h_atoms,xyz_neutral_atoms,xyz_reduced_atoms,parent_id,label
+Q0527_R0_SME1,parent,O=C1C=Cc2c(ccc3cc4ccccc4cc23)C1=O,C18H10O2,True,30,30,30,Q0527,"benz[a]anthracene-3,4-dione (BAQ)"
+Q0527_R0_SME1,sme,CSC1=CC(=O)C(=O)c2ccc3cc4ccccc4cc3c21,C19H12O2S,True,34,34,34,Q0527,"benz[a]anthracene-3,4-dione (BAQ)"
+Q0527_R0_SME1,accysome,COC(=O)[C@H](CSC1=CC(=O)C(=O)c2ccc3cc4ccccc4cc3c21)NC(C)=O,C24H19NO5S,True,50,50,50,Q0527,"benz[a]anthracene-3,4-dione (BAQ)"
+Q0298_R3_SME1,parent,Cc1c2ccccc2cc2c3c(ccc12)C(=O)C(=O)C=C3,C19H12O2,True,33,33,33,Q0298,7-methyl-BAQ
+Q0298_R3_SME1,sme,CSC1=CC(=O)C(=O)c2ccc3c(C)c4ccccc4cc3c21,C20H14O2S,True,37,37,37,Q0298,7-methyl-BAQ
+Q0298_R3_SME1,accysome,COC(=O)[C@H](CSC1=CC(=O)C(=O)c2ccc3c(C)c4ccccc4cc3c21)NC(C)=O,C25H21NO5S,True,53,53,53,Q0298,7-methyl-BAQ
+Q0059_R0_SME3,parent,CC(C)(C1=CC(=O)C(=O)C=C1)c1ccc(O)cc1,C15H14O3,True,32,32,32,Q0059,"bisphenol A-3,4-quinone (BPAQ)"
+Q0059_R0_SME3,sme,CSC1=CC(C(C)(C)c2ccc(O)cc2)=CC(=O)C1=O,C16H16O3S,True,36,36,36,Q0059,"bisphenol A-3,4-quinone (BPAQ)"
+Q0059_R0_SME3,accysome,COC(=O)[C@H](CSC1=CC(C(C)(C)c2ccc(O)cc2)=CC(=O)C1=O)NC(C)=O,C21H23NO6S,True,52,52,52,Q0059,"bisphenol A-3,4-quinone (BPAQ)"
+Q0528_R0_SME1,parent,O=C1C=Cc2ccccc2C1=O,C10H6O2,True,18,18,18,Q0528,"naphthalene-1,2-dione (NPQ)"
+Q0528_R0_SME1,sme,CSC1=CC(=O)C(=O)c2ccccc21,C11H8O2S,True,22,22,22,Q0528,"naphthalene-1,2-dione (NPQ)"
+Q0528_R0_SME1,accysome,COC(=O)[C@H](CSC1=CC(=O)C(=O)c2ccccc21)NC(C)=O,C16H15NO5S,True,38,38,38,Q0528,"naphthalene-1,2-dione (NPQ)"

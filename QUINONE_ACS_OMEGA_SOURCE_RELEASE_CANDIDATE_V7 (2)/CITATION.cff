@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Please cite the associated research article and/or this repository when using the data. A DOI will be supplied after archival deposit."
+title: "Chemical Representation Dependence of Quinone Reduction Energetics: Source Data and Reproducibility Code"
+type: dataset
+authors:
+  - family-names: "Tsai"
+    given-names: "Aris"
+    orcid: "https://orcid.org/0009-0004-8641-7647"
+version: "1.0.0-rc1"

@@ -1,0 +1,18 @@
+ref_no,doi,role,primary_url,status
+1,10.1021/jacs.6b05797,one vs PCET,https://pubs.acs.org/doi/10.1021/jacs.6b05797,verified or grounded primary/publisher reference
+2,10.1021/acs.jctc.4c00602,prior quinone potential benchmark,https://pubs.acs.org/doi/10.1021/acs.jctc.4c00602,verified or grounded primary/publisher reference
+3,10.1002/cssc.202000454,prior substitution/conformer literature,https://pmc.ncbi.nlm.nih.gov/articles/PMC7702104/,verified or grounded primary/publisher reference
+4,10.1016/0009-2797(92)90077-x,PAH orthoquinone conjugation prior art,https://pubmed.ncbi.nlm.nih.gov/1394622/,verified or grounded primary/publisher reference
+5,10.1021/ja050974x,quinone thiol/protein reaction precedent,https://pubmed.ncbi.nlm.nih.gov/15853297/,verified or grounded primary/publisher reference
+6,10.1021/acsomega.5c03722,ACS Omega 2026 descriptor redox,https://pubs.acs.org/doi/10.1021/acsomega.5c03722,verified or grounded primary/publisher reference
+7,10.1021/acs.joc.1c02911,orthoquinone thiol regiochemistry,https://pubmed.ncbi.nlm.nih.gov/35266705/,verified or grounded primary/publisher reference
+8,10.1002/wcms.70019,ORCA 6 software,https://orca-manual.mpi-muelheim.mpg.de/contents/preface/howtocite.html,verified or grounded primary/publisher reference
+9,10.1063/1.478522,PBE0,https://doi.org/10.1063/1.478522,verified or grounded primary/publisher reference
+10,10.1021/jp810292n,SMD aqueous solvent,https://doi.org/10.1021/jp810292n,verified or grounded primary/publisher reference
+11,10.1073/pnas.0402556101,unmatched menadione thiodione voltammetry,https://pmc.ncbi.nlm.nih.gov/articles/PMC419522/,verified or grounded primary/publisher reference
+12,10.1063/1.5090222,D4 dispersion,https://doi.org/10.1063/1.5090222,verified publisher/PubMed method record
+13,10.1063/5.0040021,M2R/M3R composite geometry refinements,https://doi.org/10.1063/5.0040021,verified publisher/PubMed method record
+14,10.1063/5.0133026,M1 original geometry optimization,https://doi.org/10.1063/5.0133026,verified publisher/PubMed method record
+15,10.1002/jcc.26411,omegaB97X-D4 family,https://doi.org/10.1002/jcc.26411,verified publisher/PubMed method record
+16,10.1007/s00214-010-0846-z,ma-def2 basis-set augmentation,https://doi.org/10.1007/s00214-010-0846-z,verified publisher/PubMed method record
+17,10.1039/B508541A,def2 basis-set family,https://doi.org/10.1039/B508541A,verified publisher/PubMed method record

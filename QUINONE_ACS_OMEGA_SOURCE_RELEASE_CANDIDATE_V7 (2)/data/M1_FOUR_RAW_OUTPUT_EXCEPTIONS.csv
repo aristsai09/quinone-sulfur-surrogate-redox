@@ -1,0 +1,5 @@
+adduct_id,parent_id,reduction_state_with_exception,problem,frozen_delta_delta_Ered_eV
+Q0059_R0_SME1,Q0059,Q0059_R0_SME1__c0__reduced,missing final SP,-0.0152400353226767
+Q0059_R0_SME2,Q0059,Q0059_R0_SME2__c0__neutral,missing final SP,0.1094717975697872
+Q0297_R3_SME1,Q0297,Q0297_R3_SME1__c0__reduced,incomplete final SP,0.009994082945394389
+Q0471_R0_SME1,Q0471,Q0471_R0_SME1__c0__reduced,incomplete final SP,-0.08126924571989047
