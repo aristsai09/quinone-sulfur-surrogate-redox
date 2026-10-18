@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "Please cite the associated research article and/or this repository when using the data. A DOI will be supplied after archival deposit."
+message: "Please cite this public repository and the associated article. The author supplied Zenodo DOI 10.5281/zenodo.23459391; verify publication and version metadata before using it as an archival citation."
 title: "Chemical Representation Dependence of Quinone Reduction Energetics: Source Data and Reproducibility Code"
 type: dataset
 authors:
