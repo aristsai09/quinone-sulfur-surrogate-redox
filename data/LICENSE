@@ -12,3 +12,6 @@ Human-readable summary: https://creativecommons.org/licenses/by/4.0/
 Please cite the research dataset and identify any modifications. This license
 does not waive third-party rights in underlying source material, chemical
 databases, or external software.
+
+
+V8 additional upstream notice: The above CC BY 4.0 permission is limited to the author's own copyrightable compilation/arrangement rights. Many electronic-energy values were produced using ORCA 6.1.1, and the applicable ORCA EULA may restrict commercial reuse, database hosting, and downstream reuse of those values. Such upstream restrictions are NOT waived by this notice. Consult ../ORCA_EULA_RIGHTS_NOTICE.md and confirm the installed ORCA 6.1.1 license.
