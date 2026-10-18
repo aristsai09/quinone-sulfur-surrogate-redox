@@ -11,3 +11,6 @@
 **Limitations:** Four M1 raw-output exceptions remain. M2R original ten-site data and later corrected M3R four-case values are separate vintages. The M6 24 fixed-geometry calculations test DFT functional sensitivity, not matched experimental electrochemistry. Historical large M1-M5 raw archive is not in this small repository.
 
 **Submission:** The manuscript has not been submitted. Author must certify originality, exclusive submission, proofed figures/references, and journal agreements at submission.
+
+
+**Additional licensing gate (V8):** A 2021 ORCA academic EULA covering versions 4.0 and later restricts commercial use and requires notices for ORCA-derived data hosted in databases. Earlier CC BY text was too broad insofar as it suggested unrestricted rights to raw M6 outputs. See ORCA_EULA_RIGHTS_NOTICE.md; the exact 6.1.1 license accepted by the author must be confirmed. This administrative caveat does not change any calculations.
