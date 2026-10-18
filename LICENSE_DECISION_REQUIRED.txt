@@ -1,1 +1,2 @@
-No software/data license has been chosen. The author must confirm licensing and usage rights before public deposit. Do not imply Creative Commons, MIT, or ACS policy approval by default.
+HISTORICAL V7 PLACEHOLDER (SUPERSEDED ON 18 OCTOBER 2026)
+License choices are now documented at the repository root in LICENSES.md, with folder-level notices: MIT in scripts/LICENSE and CC BY 4.0 for author-owned data, figures and raw M6 records in their respective LICENSE files. No license is granted for third-party materials or software executables. This file remains only to preserve the original V7 repository provenance.
