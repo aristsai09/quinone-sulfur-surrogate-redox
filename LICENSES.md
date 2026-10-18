@@ -20,3 +20,8 @@ Official terms:
 - CC BY 4.0: https://creativecommons.org/licenses/by/4.0/legalcode
 
 Repository: https://github.com/aristsai09/quinone-sulfur-surrogate-redox
+
+
+## V8 upstream ORCA EULA correction (2026-10-18)
+
+**Do not construe the CC BY 4.0 grants above as waiving ORCA's upstream restrictions on generated DATA or DATABASE sharing.** A June 2021 ORCA EULA covering version 4.0 and later appears to restrict commercial reuse and impose notices on ORCA-generated research data. The exact ORCA 6.1.1 accepted EULA requires confirmation. See `ORCA_EULA_RIGHTS_NOTICE.md`. In particular, the raw M6 archive and ORCA-derived CSVs are **not certified as eligible for unrestricted commercial reuse**. MIT still describes original author-owned script expression but does not license generated data or ORCA program software. Original scientific file hashes remain unchanged.
