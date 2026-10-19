@@ -1,0 +1,5 @@
+site_id,parent_id,site_label,sme_shift_eV,m2r_core_shift_eV,m3_preclosure_shift_eV,m3r_final_shift_eV,m3r_change_vs_m3_eV,m3_preclosure_class,m3r_final_class,class_changed_by_m3r,neutral_selected,reduced_selected,reduced_selected_S2
+Q0059_R0_SME3,Q0059,"BPAQ_C5_1,6",-0.0369711572554898,-0.3196683016028619,-0.1353860374700924,-0.1353860374700924,0.0,enhanced,enhanced,False,competitor_c0,primary,0.770527
+Q0298_R3_SME1,Q0298,7MeBAQ_site_positive,0.2445811914025997,-0.1995275206731328,-0.1046610224992408,-0.09404079227696727,0.010620230222273541,enhanced,enhanced,False,m3r_c7,competitor_c0,0.773074
+Q0527_R0_SME1,Q0527,BAQ_site_positive,0.2372905024317715,0.03616588098478868,-0.1047393781720691,-0.1047385691523299,8.090197392007781e-07,enhanced,enhanced,False,m3r_c1,m3r_c1,0.773427
+Q0528_R0_SME1,Q0528,NPQ_site_A,-0.0792807564220323,-0.1676413249626583,-0.09736949492789648,-0.09736949492789648,0.0,enhanced,enhanced,False,competitor_c2,competitor_c7,0.770671
