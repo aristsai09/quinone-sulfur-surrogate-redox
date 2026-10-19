@@ -1,0 +1,18 @@
+{
+  "n_m1": 34,
+  "n_parents_m1": 25,
+  "m1_neg": 25,
+  "m1_pos": 9,
+  "m1_multisite_parents": 7,
+  "m1_opposite_sign_multisite": 4,
+  "m2_n": 8,
+  "m2_parent_families": 5,
+  "m2_median_abs_eV": 0.16291651811877156,
+  "threshold_exceed_count": {
+    "0.05": 8,
+    "0.1": 5,
+    "0.2": 4
+  },
+  "mixed_vintage_median_abs_eV": 0.1116505610197463,
+  "m3r_corrected_rows": 4
+}

@@ -1,0 +1,4 @@
+absolute_surrogate_discrepancy_threshold_eV,n_exceed_threshold_out_of_8,n_sites,parent_families_in_panel,analysis_status
+0.05,8,8,5,post_hoc_descriptive
+0.10,5,8,5,post_hoc_descriptive
+0.20,4,8,5,post_hoc_descriptive

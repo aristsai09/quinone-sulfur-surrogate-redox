@@ -1,0 +1,9 @@
+# V12.1 retrospective source-corroborated quinone analysis
+
+The V7 source data, V11 manuscript freeze, 38-site M1 historical dataset, ten-site M2R historical screen, four M3R corrections and all M5/M6 source values remain unchanged. This update adds separately labeled 34-site / eight-site provenance-restricted CSVs, retrospective tolerance/vintage summaries, and 2 new deterministic graphics for the ACS Omega submission candidate.
+
+The 34-site restricted subset has 25 quinone parents (25 negative, nine positive SMe shifts); the eight source-corroborated M2R matched sites span five parent families and have an original-vintage median absolute discrepancy of 0.162916518 eV. The original historical ten-site gate median remains 0.175899559 eV. The four M3R-corrected shifts cannot be silently substituted into a new confirmatory panel; the mixed-vintage eight-site summary is 0.111650561 eV and is post hoc only.
+
+The 0.05 eV mismatch cutoff was prespecified for the original ten-site gate. Threshold checks on the eight-site subset are post hoc and descriptive (8/8 at 0.05, 5/8 at 0.10, 4/8 at 0.20 eV). Neither site counts nor eight comparisons are independent eight-parent observations, and none of these values is an experimentally validated redox potential.
+
+The four M1 single-point source-output exceptions remain unreconciled. New ORCA recovery was attempted but timed out or became unstable without accepted target-method energies. Those failed log ZIPs and verification script are in the separate dated V12.1 reproducibility addendum, intended to be supplied with the article. Original repository `README.md` can stay as a historical statement, but the new manuscript must link to this addendum or an accurate published DOI version. No confidential material from unrelated studies is in this update.
